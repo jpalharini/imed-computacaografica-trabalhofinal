@@ -1,0 +1,103 @@
+pos\example1.jpg 1 37 115 1070 463
+pos\example100.JPG 3 575 431 149 144 387 439 153 123 70 458 273 225
+pos\example101.JPG 2 575 323 405 364 610 235 226 95
+pos\example102.JPG 2 234 410 318 310 830 444 116 96
+pos\example103.JPG 0
+pos\example104.JPG 1 261 420 425 419
+pos\example105.JPG 0
+pos\example106.JPG 1 451 518 477 343
+pos\example107.JPG 1 412 487 178 163
+pos\example12.jpeg 0
+pos\example13.jpeg 0
+pos\example14.jpeg 0
+pos\example15.jpeg 0
+pos\example16.jpeg 0
+pos\example17.jpeg 0
+pos\example18.jpeg 1 29 35 1112 786
+pos\example19.jpg 1 94 49 874 570
+pos\example20.jpeg 1 37 365 766 539
+pos\example21.jpeg 1 9 43 347 184
+pos\example22.jpeg 2 177 292 594 540 773 298 132 90
+pos\example23.jpeg 1 44 286 847 647
+pos\example24.JPG 1 660 450 510 392
+pos\example25.JPG 2 244 171 726 601 796 197 167 91
+pos\example26.JPG 1 97 239 1005 498
+pos\example27.JPG 1 933 568 226 170
+pos\example28.JPG 2 62 422 761 555 638 378 64 53
+pos\example29.JPG 1 74 338 772 602
+pos\example3.jpg 1 93 348 514 351
+pos\example30.JPG 1 322 306 575 419
+pos\example31.JPG 1 30 381 741 656
+pos\example32.JPG 1 102 15 981 822
+pos\example33.JPG 1 27 83 569 234
+pos\example34.JPG 1 7 378 888 675
+pos\example35.JPG 1 68 416 779 683
+pos\example36.JPG 1 24 33 148 96
+pos\example37.JPG 0
+pos\example38.JPG 1 20 16 162 125
+pos\example39.JPG 1 73 360 793 466
+pos\example4.jpg 1 11 328 534 393
+pos\example40.jpeg 0
+pos\example41.JPG 1 12 38 220 145
+pos\example42.jpeg 1 45 291 1114 477
+pos\example43.JPG 0
+pos\example44.JPG 1 92 422 802 786
+pos\example45.JPG 1 105 434 559 226
+pos\example46.JPG 1 45 195 508 460
+pos\example47.jpeg 1 64 126 757 372
+pos\example48.JPG 1 302 518 145 120
+pos\example49.JPG 1 34 92 829 607
+pos\example5.JPG 1 477 373 695 480
+pos\example50.JPG 1 17 223 1122 659
+pos\example51.JPG 0
+pos\example52.JPG 1 115 517 521 366
+pos\example53.JPG 1 87 183 951 646
+pos\example54.jpeg 1 24 292 844 742
+pos\example55.JPG 1 116 100 1072 707
+pos\example56.jpeg 1 15 255 766 537
+pos\example57.jpeg 1 69 104 994 752
+pos\example58.jpeg 1 45 344 1122 504
+pos\example59.jpeg 2 634 382 572 405 13 341 509 430
+pos\example6.JPG 1 73 73 941 648
+pos\example60.jpeg 1 46 75 1087 747
+pos\example61.jpeg 1 89 466 602 341
+pos\example62.jpeg 1 94 361 715 571
+pos\example63.JPG 0
+pos\example64.jpeg 0
+pos\example65.JPG 1 18 121 834 568
+pos\example66.jpeg 1 74 61 1059 785
+pos\example67.jpeg 3 26 240 672 547 823 263 197 155 732 290 79 60
+pos\example68.jpeg 1 20 95 1187 752
+pos\example69.jpeg 2 101 428 439 340 647 426 463 327
+pos\example7.jpg 1 80 60 877 551
+pos\example70.JPG 0
+pos\example71.jpeg 2 367 330 335 294 748 333 253 189
+pos\example72.JPG 1 144 356 553 212
+pos\example73.JPG 1 110 217 823 490
+pos\example74.jpeg 0
+pos\example75.jpeg 0
+pos\example76.JPG 0
+pos\example77.JPG 2 37 495 182 103 510 460 386 190
+pos\example78.jpeg 1 34 24 1110 830
+pos\example79.jpeg 1 40 125 869 642
+pos\example8.jpg 0
+pos\example80.jpeg 1 188 222 1015 645
+pos\example81.jpeg 1 143 172 997 638
+pos\example82.JPG 0
+pos\example83.jpeg 0
+pos\example84.jpeg 1 129 227 898 441
+pos\example85.jpeg 1 85 356 562 498
+pos\example86.jpeg 1 633 467 503 313
+pos\example87.jpeg 1 82 345 701 513
+pos\example88.jpeg 1 261 192 794 676
+pos\example89.jpeg 1 411 455 730 425
+pos\example90.jpeg 0
+pos\example91.jpeg 1 54 330 728 536
+pos\example92.JPG 1 9 152 943 490
+pos\example93.jpeg 1 132 54 1025 828
+pos\example94.jpeg 1 39 62 220 126
+pos\example95.jpeg 0
+pos\example96.JPG 2 87 153 803 356 832 111 107 92
+pos\example97.JPG 2 84 127 889 511 12 98 159 82
+pos\example98.JPG 1 2 301 720 560
+pos\example99.JPG 4 311 155 387 332 649 40 118 94 452 6 65 49 546 4 61 50

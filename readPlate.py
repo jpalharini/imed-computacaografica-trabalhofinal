@@ -20,7 +20,7 @@ import pytesseract as pt
 #    - Número de positivos (npos): 80
 #    - Número de negativos (nneg): 30
 #    - Tamanho da imagem (w / h): 20 / 20
-cascadeCar = cv.CascadeClassifier("examples/cascade.xml")
+cascadeCar = cv.CascadeClassifier("personal-cars/cascade/cascade.xml")
 
 def debug(img, title="Debug"):
     while True:
@@ -30,7 +30,7 @@ def debug(img, title="Debug"):
             break
 
 file = sys.argv[1]
-car = cv.imread("examples/test/" + file)
+car = cv.imread("test/" + file)
 carResize = cv.resize(car, (1000,1000))
 carGray = cv.cvtColor(carResize, cv.COLOR_BGR2GRAY)
 
